@@ -115,7 +115,7 @@ input:hover {
 }
 
 .bg2-image {
-    background-image: url("image-mockups.png"); 
+    background-image: url("images/image-mockups.png"); 
     height: 800px;
     position: relative;
     z-index: 1;
