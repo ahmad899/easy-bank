@@ -103,7 +103,7 @@ input:hover {
 }
 
 .bg1-image {
-    background-image: url("/images/bg-intro-desktop.svg");
+    background-image: url("![this screenshot](https://github.com/ahmad899/easy-bank/images/bg-intro-desktop.svg");
     height: 100%;
     position: absolute;
     z-index: 0;
@@ -115,7 +115,7 @@ input:hover {
 }
 
 .bg2-image {
-    background-image: url("/images/image-mockups.png");
+    background-image: url("![this screenshot](https://github.com/ahmad899/easy-bank/images/image-mockups.png"); 
     height: 800px;
     position: relative;
     z-index: 1;
