@@ -1,5 +1,5 @@
 # Easybank Landing Page
-
+# For viewing the page click [Here](https://htmlpreview.github.io/?https://github.com/ahmad899/easy-bank/master/index.html)
 ![Challenge design preview](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
